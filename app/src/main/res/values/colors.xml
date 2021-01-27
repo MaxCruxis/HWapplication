@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="movie_details_background">#191926</color>
     <color name="dark_gray">#6D6D80</color>
+    <color name="rating_bar_color">#FF3365</color>
 </resources>
